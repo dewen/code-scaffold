@@ -1,0 +1,16 @@
+# Project dependencies
+node_modules
+lib
+
+# Temporary files
+.DS_Store
+*.swp
+*.swo
+.eslintcache
+*.tsbuildinfo
+# jetbrains files:
+
+# Jest
+coverage
+
+
